@@ -22,4 +22,4 @@ Optional: put a `Darklock.ico` next to the script (or in `%APPDATA%\Darklock`) t
 The keybind fires `LockWorkStation`, waits 1.2 seconds, then broadcasts a monitor-off system command.
 
 ## License
-MIT
+GPL-3.0
